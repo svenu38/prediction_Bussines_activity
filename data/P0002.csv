@@ -1,0 +1,656 @@
+PERNR,ERNAM,NAME2,NACHN,EMAIL,WERKS,MATKL,USERT
+80947030,Gabriele Costa,Gabriele,Costa,gabriele.costa@demo.it,US10,TPM1,A
+22179495,Marta Lombardi,Marta,Lombardi,marta.lombardi@demo.it,US10,COLA,A
+56417381,Andrea Fontana,Andrea,Fontana,andrea.fontana@demo.it,US10,ZELA,A
+23329589,Sara Russo,Sara,Russo,sara.russo@demo.it,US10,EDSA,A
+43449637,Marco Gallo,Marco,Gallo,marco.gallo@demo.it,US10,PYTF,A
+40424932,Luca Costa,Luca,Costa,luca.costa@demo.it,US10,UDF3,A
+88510487,Sandro Bianco,Sandro,Bianco,sandro.bianco@demo.it,US10,ZUFN,A
+81552979,Sara Moretti,Sara,Moretti,sara.moretti@demo.it,US10,MPLF,A
+34535366,Sandro Romano,Sandro,Romano,sandro.romano@demo.it,US10,,A
+29797126,Riccardo Costa,Riccardo,Costa,riccardo.costa@demo.it,US10,,A
+91567310,Luca Lombardi,Luca,Lombardi,luca.lombardi@demo.it,US10,,A
+20270620,Martina Fontana,Martina,Fontana,martina.fontana@demo.it,US10,,A
+94239552,Elisa Bianco,Elisa,Bianco,elisa.bianco@demo.it,US10,,A
+84718420,Marta Bianco,Marta,Bianco,marta.bianco@demo.it,US10,,A
+65619912,Laura Moretti,Laura,Moretti,laura.moretti@demo.it,US10,,A
+17399386,Riccardo Bianchi,Riccardo,Bianchi,riccardo.bianchi@demo.it,US10,,A
+41075533,Laura Rossi,Laura,Rossi,laura.rossi@demo.it,US10,,A
+52930047,Elisa Gallo,Elisa,Gallo,elisa.gallo@demo.it,US10,,A
+93116165,Anna Ferrari,Anna,Ferrari,anna.ferrari@demo.it,US10,,A
+49396822,Gabriele Ferrari,Gabriele,Ferrari,gabriele.ferrari@demo.it,US10,,A
+25521185,Anna Moretti,Anna,Moretti,anna.moretti@demo.it,US10,,A
+34906201,Sara Lombardi,Sara,Lombardi,sara.lombardi@demo.it,US10,,A
+50603071,Giulia Gallo,Giulia,Gallo,giulia.gallo@demo.it,US10,,A
+13285662,Luca Bruno,Luca,Bruno,luca.bruno@demo.it,US10,,A
+89221635,Sandro Lombardi,Sandro,Lombardi,sandro.lombardi@demo.it,US10,,A
+31978720,Marta Romano,Marta,Romano,marta.romano@demo.it,JP11,TPM1,A
+33607135,Sara Romano,Sara,Romano,sara.romano@demo.it,JP11,COLA,A
+49784073,Elisa Lombardi,Elisa,Lombardi,elisa.lombardi@demo.it,JP11,ZELA,A
+59231227,Gabriele Romano,Gabriele,Romano,gabriele.romano@demo.it,JP11,EDSA,A
+70110687,Anna Russo,Anna,Russo,anna.russo@demo.it,JP11,PYTF,A
+79246109,Martina Gallo,Martina,Gallo,martina.gallo@demo.it,JP11,UDF3,A
+92217720,Sandro Gallo,Sandro,Gallo,sandro.gallo@demo.it,JP11,ZUFN,A
+40601709,Elisa Ferrari,Elisa,Ferrari,elisa.ferrari@demo.it,JP11,MPLF,A
+42483899,Gabriele Lombardi,Gabriele,Lombardi,gabriele.lombardi@demo.it,JP11,,A
+86863338,Martina Bianco,Martina,Bianco,martina.bianco@demo.it,JP11,,A
+96016266,Sandro Fontana,Sandro,Fontana,sandro.fontana@demo.it,JP11,,A
+78379489,Anna Bruno,Anna,Bruno,anna.bruno@demo.it,JP11,,A
+45333871,Anna Romano,Anna,Romano,anna.romano@demo.it,JP11,,A
+95883122,Laura Ferrari,Laura,Ferrari,laura.ferrari@demo.it,JP11,,A
+83198123,Giulia Bruno,Giulia,Bruno,giulia.bruno@demo.it,JP11,,A
+47570626,Giulia Bianchi,Giulia,Bianchi,giulia.bianchi@demo.it,JP11,,A
+96902825,Andrea Rossi,Andrea,Rossi,andrea.rossi@demo.it,JP11,,A
+54521871,Luca Bianchi,Luca,Bianchi,luca.bianchi@demo.it,JP11,,A
+77140131,Anna Gallo,Anna,Gallo,anna.gallo@demo.it,JP11,,A
+54307472,Anna Bianco,Anna,Bianco,anna.bianco@demo.it,JP11,,A
+34623899,Sandro Bianchi,Sandro,Bianchi,sandro.bianchi@demo.it,JP11,,A
+26308534,Anna Fontana,Anna,Fontana,anna.fontana@demo.it,JP11,,A
+36618466,Anna Rossi,Anna,Rossi,anna.rossi@demo.it,JP11,,A
+22853503,Elisa Fontana,Elisa,Fontana,elisa.fontana@demo.it,JP11,,A
+17727339,Riccardo Romano,Riccardo,Romano,riccardo.romano@demo.it,JP11,,A
+44155404,Laura Bianco,Laura,Bianco,laura.bianco@demo.it,IN10,TPM1,A
+30090592,Giulia Russo,Giulia,Russo,giulia.russo@demo.it,IN10,COLA,A
+70768553,Sara Bruno,Sara,Bruno,sara.bruno@demo.it,IN10,ZELA,A
+86162838,Giulia Moretti,Giulia,Moretti,giulia.moretti@demo.it,IN10,EDSA,A
+87940829,Laura Fontana,Laura,Fontana,laura.fontana@demo.it,IN10,PYTF,A
+98019339,Sandro Russo,Sandro,Russo,sandro.russo@demo.it,IN10,UDF3,A
+44488029,Laura Bruno,Laura,Bruno,laura.bruno@demo.it,IN10,ZUFN,A
+49826393,Sara Costa,Sara,Costa,sara.costa@demo.it,IN10,MPLF,A
+34804398,Andrea Lombardi,Andrea,Lombardi,andrea.lombardi@demo.it,IN10,,A
+89252207,Riccardo Rossi,Riccardo,Rossi,riccardo.rossi@demo.it,IN10,,A
+70694805,Sandro Ferrari,Sandro,Ferrari,sandro.ferrari@demo.it,IN10,,A
+20291697,Marta Russo,Marta,Russo,marta.russo@demo.it,IN10,,A
+28444150,Giulia Costa,Giulia,Costa,giulia.costa@demo.it,IN10,,A
+53737963,Sara Gallo,Sara,Gallo,sara.gallo@demo.it,IN10,,A
+39024132,Marco Costa,Marco,Costa,marco.costa@demo.it,IN10,,A
+52557458,Marta Bianchi,Marta,Bianchi,marta.bianchi@demo.it,IN10,,A
+64389461,Marco Moretti,Marco,Moretti,marco.moretti@demo.it,IN10,,A
+13917428,Giulia Bianco,Giulia,Bianco,giulia.bianco@demo.it,IN10,,A
+66775960,Marta Gallo,Marta,Gallo,marta.gallo@demo.it,IN10,,A
+20466918,Giulia Rossi,Giulia,Rossi,giulia.rossi@demo.it,IN10,,A
+49796074,Andrea Russo,Andrea,Russo,andrea.russo@demo.it,IN10,,A
+86104769,Martina Bianchi,Martina,Bianchi,martina.bianchi@demo.it,IN10,,A
+24053430,Gabriele Gallo,Gabriele,Gallo,gabriele.gallo@demo.it,IN10,,A
+98567039,Marta Costa,Marta,Costa,marta.costa@demo.it,IN10,,A
+70449166,Marco Ferrari,Marco,Ferrari,marco.ferrari@demo.it,IN10,,A
+31295016,Riccardo Bianco,Riccardo,Bianco,riccardo.bianco@demo.it,DE10,TPM1,A
+63821277,Gabriele Russo,Gabriele,Russo,gabriele.russo@demo.it,DE10,COLA,A
+79833202,Elisa Bruno,Elisa,Bruno,elisa.bruno@demo.it,DE10,ZELA,A
+58569539,Gabriele Rossi,Gabriele,Rossi,gabriele.rossi@demo.it,DE10,EDSA,A
+68613813,Luca Ferrari,Luca,Ferrari,luca.ferrari@demo.it,DE10,PYTF,A
+59321219,Andrea Moretti,Andrea,Moretti,andrea.moretti@demo.it,DE10,UDF3,A
+65550769,Giulia Lombardi,Giulia,Lombardi,giulia.lombardi@demo.it,DE10,ZUFN,A
+47656838,Luca Rossi,Luca,Rossi,luca.rossi@demo.it,DE10,MPLF,A
+87766849,Martina Costa,Martina,Costa,martina.costa@demo.it,DE10,,A
+76675367,Marco Fontana,Marco,Fontana,marco.fontana@demo.it,DE10,,A
+56516420,Martina Bruno,Martina,Bruno,martina.bruno@demo.it,DE10,,A
+22219828,Laura Lombardi,Laura,Lombardi,laura.lombardi@demo.it,DE10,,A
+57122925,Anna Lombardi,Anna,Lombardi,anna.lombardi@demo.it,DE10,,A
+53834925,Luca Fontana,Luca,Fontana,luca.fontana@demo.it,DE10,,A
+26753334,Luca Bianco,Luca,Bianco,luca.bianco@demo.it,DE10,,A
+29591869,Laura Bianchi,Laura,Bianchi,laura.bianchi@demo.it,DE10,,A
+90546423,Laura Romano,Laura,Romano,laura.romano@demo.it,DE10,,A
+99587757,Elisa Rossi,Elisa,Rossi,elisa.rossi@demo.it,DE10,,A
+22266209,Marco Bianco,Marco,Bianco,marco.bianco@demo.it,DE10,,A
+54469786,Luca Romano,Luca,Romano,luca.romano@demo.it,DE10,,A
+42969939,Riccardo Gallo,Riccardo,Gallo,riccardo.gallo@demo.it,DE10,,A
+27111603,Laura Costa,Laura,Costa,laura.costa@demo.it,DE10,,A
+66118598,Riccardo Moretti,Riccardo,Moretti,riccardo.moretti@demo.it,DE10,,A
+24266402,Giulia Ferrari,Giulia,Ferrari,giulia.ferrari@demo.it,DE10,,A
+10768403,Andrea Bianco,Andrea,Bianco,andrea.bianco@demo.it,DE10,,A
+48148862,Martina Russo,Martina,Russo,martina.russo@demo.it,CN10,TPM1,A
+23246292,Marco Bianchi,Marco,Bianchi,marco.bianchi@demo.it,CN10,COLA,A
+93048219,Laura Gallo,Laura,Gallo,laura.gallo@demo.it,CN10,ZELA,A
+49485597,Anna Costa,Anna,Costa,anna.costa@demo.it,CN10,EDSA,A
+12948061,Marco Lombardi,Marco,Lombardi,marco.lombardi@demo.it,CN10,PYTF,A
+71417158,Martina Moretti,Martina,Moretti,martina.moretti@demo.it,CN10,UDF3,A
+23344986,Riccardo Russo,Riccardo,Russo,riccardo.russo@demo.it,CN10,ZUFN,A
+20837115,Riccardo Fontana,Riccardo,Fontana,riccardo.fontana@demo.it,CN10,MPLF,A
+14239836,Elisa Moretti,Elisa,Moretti,elisa.moretti@demo.it,CN10,,A
+85622579,Elisa Bianchi,Elisa,Bianchi,elisa.bianchi@demo.it,CN10,,A
+31759289,Elisa Russo,Elisa,Russo,elisa.russo@demo.it,CN10,,A
+86915029,Andrea Ferrari,Andrea,Ferrari,andrea.ferrari@demo.it,CN10,,A
+56986688,Marta Ferrari,Marta,Ferrari,marta.ferrari@demo.it,CN10,,A
+44517918,Sandro Costa,Sandro,Costa,sandro.costa@demo.it,CN10,,A
+19370231,Sara Rossi,Sara,Rossi,sara.rossi@demo.it,CN10,,A
+87386017,Marta Rossi,Marta,Rossi,marta.rossi@demo.it,CN10,,A
+78881014,Andrea Romano,Andrea,Romano,andrea.romano@demo.it,CN10,,A
+99614307,Sara Bianchi,Sara,Bianchi,sara.bianchi@demo.it,CN10,,A
+24448207,Luca Russo,Luca,Russo,luca.russo@demo.it,CN10,,A
+75008634,Giulia Romano,Giulia,Romano,giulia.romano@demo.it,CN10,,A
+23750852,Marco Russo,Marco,Russo,marco.russo@demo.it,CN10,,A
+28957791,Marta Bruno,Marta,Bruno,marta.bruno@demo.it,CN10,,A
+64581196,Riccardo Bruno,Riccardo,Bruno,riccardo.bruno@demo.it,CN10,,A
+98828930,Marco Rossi,Marco,Rossi,marco.rossi@demo.it,CN10,,A
+67707119,Martina Lombardi,Martina,Lombardi,martina.lombardi@demo.it,CN10,,A
+26906049,Sandro Bruno,Sandro,Bruno,sandro.bruno@demo.it,BR10,TPM1,A
+53251766,Andrea Bruno,Andrea,Bruno,andrea.bruno@demo.it,BR10,COLA,A
+40138709,Gabriele Bianco,Gabriele,Bianco,gabriele.bianco@demo.it,BR10,ZELA,A
+84141246,Luca Gallo,Luca,Gallo,luca.gallo@demo.it,BR10,EDSA,A
+51619782,Andrea Bianchi,Andrea,Bianchi,andrea.bianchi@demo.it,BR10,PYTF,A
+89359211,Marco Bruno,Marco,Bruno,marco.bruno@demo.it,BR10,UDF3,A
+24642678,Sara Bianco,Sara,Bianco,sara.bianco@demo.it,BR10,ZUFN,A
+32008687,Riccardo Ferrari,Riccardo,Ferrari,riccardo.ferrari@demo.it,BR10,MPLF,A
+66321376,Sandro Rossi,Sandro,Rossi,sandro.rossi@demo.it,BR10,,A
+66610435,Marco Romano,Marco,Romano,marco.romano@demo.it,BR10,,A
+30822422,Elisa Romano,Elisa,Romano,elisa.romano@demo.it,BR10,,A
+96286598,Sara Ferrari,Sara,Ferrari,sara.ferrari@demo.it,BR10,,A
+37103541,Andrea Costa,Andrea,Costa,andrea.costa@demo.it,BR10,,A
+59060556,Martina Rossi,Martina,Rossi,martina.rossi@demo.it,BR10,,A
+92039769,Anna Bianchi,Anna,Bianchi,anna.bianchi@demo.it,BR10,,A
+39915336,Gabriele Bruno,Gabriele,Bruno,gabriele.bruno@demo.it,BR10,,A
+45153698,Gabriele Bianchi,Gabriele,Bianchi,gabriele.bianchi@demo.it,BR10,,A
+71010072,Martina Romano,Martina,Romano,martina.romano@demo.it,BR10,,A
+10869462,Luca Moretti,Luca,Moretti,luca.moretti@demo.it,BR10,,A
+72702456,Andrea Gallo,Andrea,Gallo,andrea.gallo@demo.it,BR10,,A
+52136732,Gabriele Moretti,Gabriele,Moretti,gabriele.moretti@demo.it,BR10,,A
+83839016,Elisa Costa,Elisa,Costa,elisa.costa@demo.it,BR10,,A
+41723896,Laura Russo,Laura,Russo,laura.russo@demo.it,BR10,,A
+47982674,Sandro Moretti,Sandro,Moretti,sandro.moretti@demo.it,BR10,,A
+23818469,Riccardo Lombardi,Riccardo,Lombardi,riccardo.lombardi@demo.it,BR10,,A
+55359124,Martina Ferrari,Martina,Ferrari,martina.ferrari@demo.it,BR10,,A
+65427322,Marta Fontana,Marta,Fontana,marta.fontana@demo.it,BR10,,A
+11888297,Marta Moretti,Marta,Moretti,marta.moretti@demo.it,BR10,,A
+61073533,Gabriele Fontana,Gabriele,Fontana,gabriele.fontana@demo.it,BR10,,A
+51567180,Sara Fontana,Sara,Fontana,sara.fontana@demo.it,BR10,,A
+10031025,bot,bot,bot,bot,BR10,,B
+10302268,bot,bot,bot,bot,BR10,,B
+10538316,bot,bot,bot,bot,BR10,,B
+10989829,bot,bot,bot,bot,BR10,,B
+11367413,bot,bot,bot,bot,BR10,,B
+11444007,bot,bot,bot,bot,BR10,,B
+11490609,bot,bot,bot,bot,BR10,,B
+11553472,bot,bot,bot,bot,BR10,,B
+11643605,bot,bot,bot,bot,BR10,,B
+11650206,bot,bot,bot,bot,BR10,,B
+11860721,bot,bot,bot,bot,BR10,,B
+11866304,bot,bot,bot,bot,BR10,,B
+12010246,bot,bot,bot,bot,BR10,,B
+12521424,bot,bot,bot,bot,BR10,,B
+12941038,bot,bot,bot,bot,BR10,,B
+12973997,bot,bot,bot,bot,BR10,,B
+13453247,bot,bot,bot,bot,BR10,,B
+13748089,bot,bot,bot,bot,BR10,,B
+13767644,bot,bot,bot,bot,BR10,,B
+13848588,bot,bot,bot,bot,BR10,,B
+13990850,bot,bot,bot,bot,BR10,,B
+14028409,bot,bot,bot,bot,BR10,,B
+14113801,bot,bot,bot,bot,BR10,,B
+14147752,bot,bot,bot,bot,BR10,,B
+14193461,bot,bot,bot,bot,BR10,,B
+14216209,bot,bot,bot,bot,BR10,,B
+14427468,bot,bot,bot,bot,BR10,,B
+14516278,bot,bot,bot,bot,BR10,,B
+14617290,bot,bot,bot,bot,BR10,,B
+14623043,bot,bot,bot,bot,BR10,,B
+15532964,bot,bot,bot,bot,BR10,,B
+15571420,bot,bot,bot,bot,BR10,,B
+15618210,bot,bot,bot,bot,BR10,,B
+15767144,bot,bot,bot,bot,BR10,,B
+15775531,bot,bot,bot,bot,BR10,,B
+16116408,bot,bot,bot,bot,BR10,,B
+16272566,bot,bot,bot,bot,BR10,,B
+16600755,bot,bot,bot,bot,BR10,,B
+16842993,bot,bot,bot,bot,BR10,,B
+16924815,bot,bot,bot,bot,BR10,,B
+16949366,bot,bot,bot,bot,BR10,,B
+17320878,bot,bot,bot,bot,BR10,,B
+17437251,bot,bot,bot,bot,BR10,,B
+17445420,bot,bot,bot,bot,BR10,,B
+17561687,bot,bot,bot,bot,BR10,,B
+17844824,bot,bot,bot,bot,BR10,,B
+17850787,bot,bot,bot,bot,BR10,,B
+17857729,bot,bot,bot,bot,BR10,,B
+17858513,bot,bot,bot,bot,BR10,,B
+17946151,bot,bot,bot,bot,BR10,,B
+18196663,bot,bot,bot,bot,BR10,,B
+18351645,bot,bot,bot,bot,BR10,,B
+18367406,bot,bot,bot,bot,BR10,,B
+18407205,bot,bot,bot,bot,BR10,,B
+18577068,bot,bot,bot,bot,BR10,,B
+18814800,bot,bot,bot,bot,BR10,,B
+18849392,bot,bot,bot,bot,BR10,,B
+18878340,bot,bot,bot,bot,BR10,,B
+18941594,bot,bot,bot,bot,BR10,,B
+19024035,bot,bot,bot,bot,BR10,,B
+19048037,bot,bot,bot,bot,BR10,,B
+19051192,bot,bot,bot,bot,BR10,,B
+19184589,bot,bot,bot,bot,BR10,,B
+19202035,bot,bot,bot,bot,BR10,,B
+19392188,bot,bot,bot,bot,BR10,,B
+19543410,bot,bot,bot,bot,BR10,,B
+19844160,bot,bot,bot,bot,BR10,,B
+20065736,bot,bot,bot,bot,BR10,,B
+20120325,bot,bot,bot,bot,BR10,,B
+20704567,bot,bot,bot,bot,BR10,,B
+20887554,bot,bot,bot,bot,BR10,,B
+20910031,bot,bot,bot,bot,BR10,,B
+20937019,bot,bot,bot,bot,BR10,,B
+20977694,bot,bot,bot,bot,BR10,,B
+21179456,bot,bot,bot,bot,BR10,,B
+21310337,bot,bot,bot,bot,BR10,,B
+21879278,bot,bot,bot,bot,BR10,,B
+21937291,bot,bot,bot,bot,BR10,,B
+22018185,bot,bot,bot,bot,BR10,,B
+22153844,bot,bot,bot,bot,BR10,,B
+22186876,bot,bot,bot,bot,CN10,,B
+22189465,bot,bot,bot,bot,CN10,,B
+22480456,bot,bot,bot,bot,CN10,,B
+22729866,bot,bot,bot,bot,CN10,,B
+22863028,bot,bot,bot,bot,CN10,,B
+22939187,bot,bot,bot,bot,CN10,,B
+23414890,bot,bot,bot,bot,CN10,,B
+23798159,bot,bot,bot,bot,CN10,,B
+23875597,bot,bot,bot,bot,CN10,,B
+23999623,bot,bot,bot,bot,CN10,,B
+24110540,bot,bot,bot,bot,CN10,,B
+24411183,bot,bot,bot,bot,CN10,,B
+24536147,bot,bot,bot,bot,CN10,,B
+24721437,bot,bot,bot,bot,CN10,,B
+25069962,bot,bot,bot,bot,CN10,,B
+25357088,bot,bot,bot,bot,CN10,,B
+25639195,bot,bot,bot,bot,CN10,,B
+25649074,bot,bot,bot,bot,CN10,,B
+25707325,bot,bot,bot,bot,CN10,,B
+25767690,bot,bot,bot,bot,CN10,,B
+26105455,bot,bot,bot,bot,CN10,,B
+26214738,bot,bot,bot,bot,CN10,,B
+26309199,bot,bot,bot,bot,CN10,,B
+26483085,bot,bot,bot,bot,CN10,,B
+26512366,bot,bot,bot,bot,CN10,,B
+26673288,bot,bot,bot,bot,CN10,,B
+26820541,bot,bot,bot,bot,CN10,,B
+26876759,bot,bot,bot,bot,CN10,,B
+27072007,bot,bot,bot,bot,CN10,,B
+27116838,bot,bot,bot,bot,CN10,,B
+27204519,bot,bot,bot,bot,CN10,,B
+27335411,bot,bot,bot,bot,CN10,,B
+27414385,bot,bot,bot,bot,CN10,,B
+27519967,bot,bot,bot,bot,CN10,,B
+27714088,bot,bot,bot,bot,CN10,,B
+27775137,bot,bot,bot,bot,CN10,,B
+27794877,bot,bot,bot,bot,CN10,,B
+27800605,bot,bot,bot,bot,CN10,,B
+27921440,bot,bot,bot,bot,CN10,,B
+27976565,bot,bot,bot,bot,CN10,,B
+28169736,bot,bot,bot,bot,CN10,,B
+28328779,bot,bot,bot,bot,CN10,,B
+28588831,bot,bot,bot,bot,CN10,,B
+28731487,bot,bot,bot,bot,CN10,,B
+28770259,bot,bot,bot,bot,CN10,,B
+29137563,bot,bot,bot,bot,CN10,,B
+29599239,bot,bot,bot,bot,CN10,,B
+29602197,bot,bot,bot,bot,CN10,,B
+29640411,bot,bot,bot,bot,CN10,,B
+29959326,bot,bot,bot,bot,CN10,,B
+30456127,bot,bot,bot,bot,CN10,,B
+30562118,bot,bot,bot,bot,CN10,,B
+30655341,bot,bot,bot,bot,CN10,,B
+30692273,bot,bot,bot,bot,CN10,,B
+30695145,bot,bot,bot,bot,CN10,,B
+30869602,bot,bot,bot,bot,CN10,,B
+30964223,bot,bot,bot,bot,CN10,,B
+31073819,bot,bot,bot,bot,CN10,,B
+31380085,bot,bot,bot,bot,CN10,,B
+31380752,bot,bot,bot,bot,CN10,,B
+31526155,bot,bot,bot,bot,CN10,,B
+31573888,bot,bot,bot,bot,CN10,,B
+31899558,bot,bot,bot,bot,CN10,,B
+32093764,bot,bot,bot,bot,CN10,,B
+32204444,bot,bot,bot,bot,CN10,,B
+32264792,bot,bot,bot,bot,CN10,,B
+32307970,bot,bot,bot,bot,CN10,,B
+32399060,bot,bot,bot,bot,CN10,,B
+32454627,bot,bot,bot,bot,CN10,,B
+32511490,bot,bot,bot,bot,CN10,,B
+32683983,bot,bot,bot,bot,CN10,,B
+32760476,bot,bot,bot,bot,CN10,,B
+32856039,bot,bot,bot,bot,CN10,,B
+32980040,bot,bot,bot,bot,CN10,,B
+32983122,bot,bot,bot,bot,CN10,,B
+33216720,bot,bot,bot,bot,CN10,,B
+33529840,bot,bot,bot,bot,CN10,,B
+33657107,bot,bot,bot,bot,CN10,,B
+33718300,bot,bot,bot,bot,CN10,,B
+33793962,bot,bot,bot,bot,CN10,,B
+34037891,bot,bot,bot,bot,DE10,,B
+34048233,bot,bot,bot,bot,DE10,,B
+34190390,bot,bot,bot,bot,DE10,,B
+34256510,bot,bot,bot,bot,DE10,,B
+34351663,bot,bot,bot,bot,DE10,,B
+35192131,bot,bot,bot,bot,DE10,,B
+35240638,bot,bot,bot,bot,DE10,,B
+35396553,bot,bot,bot,bot,DE10,,B
+35471099,bot,bot,bot,bot,DE10,,B
+35507382,bot,bot,bot,bot,DE10,,B
+35695942,bot,bot,bot,bot,DE10,,B
+36003448,bot,bot,bot,bot,DE10,,B
+36266286,bot,bot,bot,bot,DE10,,B
+36696726,bot,bot,bot,bot,DE10,,B
+36908184,bot,bot,bot,bot,DE10,,B
+37246758,bot,bot,bot,bot,DE10,,B
+37259073,bot,bot,bot,bot,DE10,,B
+37508402,bot,bot,bot,bot,DE10,,B
+37774575,bot,bot,bot,bot,DE10,,B
+38071817,bot,bot,bot,bot,DE10,,B
+38398035,bot,bot,bot,bot,DE10,,B
+38699668,bot,bot,bot,bot,DE10,,B
+39250498,bot,bot,bot,bot,DE10,,B
+39844730,bot,bot,bot,bot,DE10,,B
+39937440,bot,bot,bot,bot,DE10,,B
+40594299,bot,bot,bot,bot,DE10,,B
+40836156,bot,bot,bot,bot,DE10,,B
+40959657,bot,bot,bot,bot,DE10,,B
+41145399,bot,bot,bot,bot,DE10,,B
+41650860,bot,bot,bot,bot,DE10,,B
+41699811,bot,bot,bot,bot,DE10,,B
+41922364,bot,bot,bot,bot,DE10,,B
+41977120,bot,bot,bot,bot,DE10,,B
+42012916,bot,bot,bot,bot,DE10,,B
+42049506,bot,bot,bot,bot,DE10,,B
+42053617,bot,bot,bot,bot,DE10,,B
+42114537,bot,bot,bot,bot,DE10,,B
+42143962,bot,bot,bot,bot,DE10,,B
+42400966,bot,bot,bot,bot,DE10,,B
+42408397,bot,bot,bot,bot,DE10,,B
+42676369,bot,bot,bot,bot,DE10,,B
+42900809,bot,bot,bot,bot,DE10,,B
+42978120,bot,bot,bot,bot,DE10,,B
+43287891,bot,bot,bot,bot,DE10,,B
+44135631,bot,bot,bot,bot,DE10,,B
+44207013,bot,bot,bot,bot,DE10,,B
+44353110,bot,bot,bot,bot,DE10,,B
+44679314,bot,bot,bot,bot,DE10,,B
+44702373,bot,bot,bot,bot,DE10,,B
+44849531,bot,bot,bot,bot,DE10,,B
+45088774,bot,bot,bot,bot,DE10,,B
+45379454,bot,bot,bot,bot,DE10,,B
+45557231,bot,bot,bot,bot,DE10,,B
+45672955,bot,bot,bot,bot,DE10,,B
+45837989,bot,bot,bot,bot,DE10,,B
+45861414,bot,bot,bot,bot,DE10,,B
+46208751,bot,bot,bot,bot,DE10,,B
+46321956,bot,bot,bot,bot,DE10,,B
+46360074,bot,bot,bot,bot,DE10,,B
+46509137,bot,bot,bot,bot,DE10,,B
+46532170,bot,bot,bot,bot,DE10,,B
+46553386,bot,bot,bot,bot,DE10,,B
+46739157,bot,bot,bot,bot,DE10,,B
+47020125,bot,bot,bot,bot,DE10,,B
+47304745,bot,bot,bot,bot,DE10,,B
+47334999,bot,bot,bot,bot,DE10,,B
+47349658,bot,bot,bot,bot,DE10,,B
+47395487,bot,bot,bot,bot,DE10,,B
+47541422,bot,bot,bot,bot,DE10,,B
+48017982,bot,bot,bot,bot,DE10,,B
+48125799,bot,bot,bot,bot,DE10,,B
+48250236,bot,bot,bot,bot,DE10,,B
+48451268,bot,bot,bot,bot,DE10,,B
+48670636,bot,bot,bot,bot,DE10,,B
+48760690,bot,bot,bot,bot,DE10,,B
+49077674,bot,bot,bot,bot,DE10,,B
+49712938,bot,bot,bot,bot,DE10,,B
+49781629,bot,bot,bot,bot,DE10,,B
+49883210,bot,bot,bot,bot,DE10,,B
+50027648,bot,bot,bot,bot,DE10,,B
+50831348,bot,bot,bot,bot,IN10,,B
+51055455,bot,bot,bot,bot,IN10,,B
+51101792,bot,bot,bot,bot,IN10,,B
+51321600,bot,bot,bot,bot,IN10,,B
+51561273,bot,bot,bot,bot,IN10,,B
+51676919,bot,bot,bot,bot,IN10,,B
+51707704,bot,bot,bot,bot,IN10,,B
+51723487,bot,bot,bot,bot,IN10,,B
+52038534,bot,bot,bot,bot,IN10,,B
+52197147,bot,bot,bot,bot,IN10,,B
+52265255,bot,bot,bot,bot,IN10,,B
+52638817,bot,bot,bot,bot,IN10,,B
+52814908,bot,bot,bot,bot,IN10,,B
+52951210,bot,bot,bot,bot,IN10,,B
+53223692,bot,bot,bot,bot,IN10,,B
+53457242,bot,bot,bot,bot,IN10,,B
+53622145,bot,bot,bot,bot,IN10,,B
+53666056,bot,bot,bot,bot,IN10,,B
+54041906,bot,bot,bot,bot,IN10,,B
+54119014,bot,bot,bot,bot,IN10,,B
+54263514,bot,bot,bot,bot,IN10,,B
+54869167,bot,bot,bot,bot,IN10,,B
+55463176,bot,bot,bot,bot,IN10,,B
+55748312,bot,bot,bot,bot,IN10,,B
+56170564,bot,bot,bot,bot,IN10,,B
+56621036,bot,bot,bot,bot,IN10,,B
+57329986,bot,bot,bot,bot,IN10,,B
+57485181,bot,bot,bot,bot,IN10,,B
+57519975,bot,bot,bot,bot,IN10,,B
+57765961,bot,bot,bot,bot,IN10,,B
+57773650,bot,bot,bot,bot,IN10,,B
+58010517,bot,bot,bot,bot,IN10,,B
+58600522,bot,bot,bot,bot,IN10,,B
+58931923,bot,bot,bot,bot,IN10,,B
+59128243,bot,bot,bot,bot,IN10,,B
+59136793,bot,bot,bot,bot,IN10,,B
+59281781,bot,bot,bot,bot,IN10,,B
+59668383,bot,bot,bot,bot,IN10,,B
+59991942,bot,bot,bot,bot,IN10,,B
+60003378,bot,bot,bot,bot,IN10,,B
+60223748,bot,bot,bot,bot,IN10,,B
+60328163,bot,bot,bot,bot,IN10,,B
+60450114,bot,bot,bot,bot,IN10,,B
+60935037,bot,bot,bot,bot,IN10,,B
+60938467,bot,bot,bot,bot,IN10,,B
+61117092,bot,bot,bot,bot,IN10,,B
+61434023,bot,bot,bot,bot,IN10,,B
+61475942,bot,bot,bot,bot,IN10,,B
+61498252,bot,bot,bot,bot,IN10,,B
+61543630,bot,bot,bot,bot,IN10,,B
+61546081,bot,bot,bot,bot,IN10,,B
+61568536,bot,bot,bot,bot,IN10,,B
+61569751,bot,bot,bot,bot,IN10,,B
+61835271,bot,bot,bot,bot,IN10,,B
+61981179,bot,bot,bot,bot,IN10,,B
+62114292,bot,bot,bot,bot,IN10,,B
+62124290,bot,bot,bot,bot,IN10,,B
+62145904,bot,bot,bot,bot,IN10,,B
+62192020,bot,bot,bot,bot,IN10,,B
+62549829,bot,bot,bot,bot,IN10,,B
+62956606,bot,bot,bot,bot,IN10,,B
+63038151,bot,bot,bot,bot,IN10,,B
+63075386,bot,bot,bot,bot,IN10,,B
+63234814,bot,bot,bot,bot,IN10,,B
+63332124,bot,bot,bot,bot,IN10,,B
+63339019,bot,bot,bot,bot,IN10,,B
+63747241,bot,bot,bot,bot,IN10,,B
+63983002,bot,bot,bot,bot,IN10,,B
+64020092,bot,bot,bot,bot,IN10,,B
+64025177,bot,bot,bot,bot,IN10,,B
+64195864,bot,bot,bot,bot,IN10,,B
+64580884,bot,bot,bot,bot,IN10,,B
+64645534,bot,bot,bot,bot,IN10,,B
+64801529,bot,bot,bot,bot,IN10,,B
+65200073,bot,bot,bot,bot,IN10,,B
+65521925,bot,bot,bot,bot,IN10,,B
+65729036,bot,bot,bot,bot,IN10,,B
+65996666,bot,bot,bot,bot,IN10,,B
+66145879,bot,bot,bot,bot,IN10,,B
+66182728,bot,bot,bot,bot,IN10,,B
+66219686,bot,bot,bot,bot,JP11,,B
+66441646,bot,bot,bot,bot,JP11,,B
+66495160,bot,bot,bot,bot,JP11,,B
+66856933,bot,bot,bot,bot,JP11,,B
+67199101,bot,bot,bot,bot,JP11,,B
+67231035,bot,bot,bot,bot,JP11,,B
+67295445,bot,bot,bot,bot,JP11,,B
+67357673,bot,bot,bot,bot,JP11,,B
+67659550,bot,bot,bot,bot,JP11,,B
+68041376,bot,bot,bot,bot,JP11,,B
+68061790,bot,bot,bot,bot,JP11,,B
+68151316,bot,bot,bot,bot,JP11,,B
+68180086,bot,bot,bot,bot,JP11,,B
+68262206,bot,bot,bot,bot,JP11,,B
+68490161,bot,bot,bot,bot,JP11,,B
+68550348,bot,bot,bot,bot,JP11,,B
+68822615,bot,bot,bot,bot,JP11,,B
+68838257,bot,bot,bot,bot,JP11,,B
+68929969,bot,bot,bot,bot,JP11,,B
+68930260,bot,bot,bot,bot,JP11,,B
+68968014,bot,bot,bot,bot,JP11,,B
+69070997,bot,bot,bot,bot,JP11,,B
+69491468,bot,bot,bot,bot,JP11,,B
+69540038,bot,bot,bot,bot,JP11,,B
+69554305,bot,bot,bot,bot,JP11,,B
+69707819,bot,bot,bot,bot,JP11,,B
+69924358,bot,bot,bot,bot,JP11,,B
+69988311,bot,bot,bot,bot,JP11,,B
+70002506,bot,bot,bot,bot,JP11,,B
+70116237,bot,bot,bot,bot,JP11,,B
+70465469,bot,bot,bot,bot,JP11,,B
+70747659,bot,bot,bot,bot,JP11,,B
+71169749,bot,bot,bot,bot,JP11,,B
+71678264,bot,bot,bot,bot,JP11,,B
+71835249,bot,bot,bot,bot,JP11,,B
+71889015,bot,bot,bot,bot,JP11,,B
+71889081,bot,bot,bot,bot,JP11,,B
+72065740,bot,bot,bot,bot,JP11,,B
+72479255,bot,bot,bot,bot,JP11,,B
+72482110,bot,bot,bot,bot,JP11,,B
+72770444,bot,bot,bot,bot,JP11,,B
+72822233,bot,bot,bot,bot,JP11,,B
+73463213,bot,bot,bot,bot,JP11,,B
+73651097,bot,bot,bot,bot,JP11,,B
+73893399,bot,bot,bot,bot,JP11,,B
+73943505,bot,bot,bot,bot,JP11,,B
+74151062,bot,bot,bot,bot,JP11,,B
+74509438,bot,bot,bot,bot,JP11,,B
+74627776,bot,bot,bot,bot,JP11,,B
+74909010,bot,bot,bot,bot,JP11,,B
+75223703,bot,bot,bot,bot,JP11,,B
+75758576,bot,bot,bot,bot,JP11,,B
+76045557,bot,bot,bot,bot,JP11,,B
+76054846,bot,bot,bot,bot,JP11,,B
+76096174,bot,bot,bot,bot,JP11,,B
+76476161,bot,bot,bot,bot,JP11,,B
+76715395,bot,bot,bot,bot,JP11,,B
+76772728,bot,bot,bot,bot,JP11,,B
+76822631,bot,bot,bot,bot,JP11,,B
+77540650,bot,bot,bot,bot,JP11,,B
+77597329,bot,bot,bot,bot,JP11,,B
+77639249,bot,bot,bot,bot,JP11,,B
+77821960,bot,bot,bot,bot,JP11,,B
+77899795,bot,bot,bot,bot,JP11,,B
+78625865,bot,bot,bot,bot,JP11,,B
+78847324,bot,bot,bot,bot,JP11,,B
+79026548,bot,bot,bot,bot,JP11,,B
+79136956,bot,bot,bot,bot,JP11,,B
+79767989,bot,bot,bot,bot,JP11,,B
+79848143,bot,bot,bot,bot,JP11,,B
+80694810,bot,bot,bot,bot,JP11,,B
+80769240,bot,bot,bot,bot,JP11,,B
+80969552,bot,bot,bot,bot,JP11,,B
+81226330,bot,bot,bot,bot,JP11,,B
+81236092,bot,bot,bot,bot,JP11,,B
+81637476,bot,bot,bot,bot,JP11,,B
+81684996,bot,bot,bot,bot,JP11,,B
+81970178,bot,bot,bot,bot,JP11,,B
+82040060,bot,bot,bot,bot,JP11,,B
+82144186,bot,bot,bot,bot,JP11,,B
+82337433,bot,bot,bot,bot,US10,,B
+82343323,bot,bot,bot,bot,US10,,B
+82596334,bot,bot,bot,bot,US10,,B
+82699860,bot,bot,bot,bot,US10,,B
+82824702,bot,bot,bot,bot,US10,,B
+82834217,bot,bot,bot,bot,US10,,B
+82887724,bot,bot,bot,bot,US10,,B
+82920773,bot,bot,bot,bot,US10,,B
+83083032,bot,bot,bot,bot,US10,,B
+83191486,bot,bot,bot,bot,US10,,B
+83271922,bot,bot,bot,bot,US10,,B
+83371295,bot,bot,bot,bot,US10,,B
+83551657,bot,bot,bot,bot,US10,,B
+83978021,bot,bot,bot,bot,US10,,B
+84255691,bot,bot,bot,bot,US10,,B
+84607325,bot,bot,bot,bot,US10,,B
+84837022,bot,bot,bot,bot,US10,,B
+85299630,bot,bot,bot,bot,US10,,B
+85356007,bot,bot,bot,bot,US10,,B
+85454276,bot,bot,bot,bot,US10,,B
+85522996,bot,bot,bot,bot,US10,,B
+85564101,bot,bot,bot,bot,US10,,B
+85659157,bot,bot,bot,bot,US10,,B
+85699417,bot,bot,bot,bot,US10,,B
+86075565,bot,bot,bot,bot,US10,,B
+86205557,bot,bot,bot,bot,US10,,B
+86280788,bot,bot,bot,bot,US10,,B
+86489593,bot,bot,bot,bot,US10,,B
+86604031,bot,bot,bot,bot,US10,,B
+87110365,bot,bot,bot,bot,US10,,B
+87443257,bot,bot,bot,bot,US10,,B
+87519661,bot,bot,bot,bot,US10,,B
+87544330,bot,bot,bot,bot,US10,,B
+87596201,bot,bot,bot,bot,US10,,B
+87700938,bot,bot,bot,bot,US10,,B
+88240047,bot,bot,bot,bot,US10,,B
+88432539,bot,bot,bot,bot,US10,,B
+88736144,bot,bot,bot,bot,US10,,B
+88994835,bot,bot,bot,bot,US10,,B
+89136512,bot,bot,bot,bot,US10,,B
+89319796,bot,bot,bot,bot,US10,,B
+89426707,bot,bot,bot,bot,US10,,B
+90107912,bot,bot,bot,bot,US10,,B
+90458627,bot,bot,bot,bot,US10,,B
+90548827,bot,bot,bot,bot,US10,,B
+90592859,bot,bot,bot,bot,US10,,B
+90850760,bot,bot,bot,bot,US10,,B
+90936752,bot,bot,bot,bot,US10,,B
+91183810,bot,bot,bot,bot,US10,,B
+91370480,bot,bot,bot,bot,US10,,B
+91415001,bot,bot,bot,bot,US10,,B
+91423732,bot,bot,bot,bot,US10,,B
+91442486,bot,bot,bot,bot,US10,,B
+91698003,bot,bot,bot,bot,US10,,B
+91751450,bot,bot,bot,bot,US10,,B
+91849617,bot,bot,bot,bot,US10,,B
+91999822,bot,bot,bot,bot,US10,,B
+92032047,bot,bot,bot,bot,US10,,B
+92311722,bot,bot,bot,bot,US10,,B
+92317842,bot,bot,bot,bot,US10,,B
+92957419,bot,bot,bot,bot,US10,,B
+93706871,bot,bot,bot,bot,US10,,B
+93774896,bot,bot,bot,bot,US10,,B
+93782877,bot,bot,bot,bot,US10,,B
+94126065,bot,bot,bot,bot,US10,,B
+94248358,bot,bot,bot,bot,US10,,B
+94286021,bot,bot,bot,bot,US10,,B
+94604082,bot,bot,bot,bot,US10,,B
+94707170,bot,bot,bot,bot,US10,,B
+94793957,bot,bot,bot,bot,US10,,B
+94955702,bot,bot,bot,bot,US10,,B
+95183482,bot,bot,bot,bot,US10,,B
+95209555,bot,bot,bot,bot,US10,,B
+95329307,bot,bot,bot,bot,US10,,B
+95335860,bot,bot,bot,bot,US10,,B
+95612378,bot,bot,bot,bot,US10,,B
+95741447,bot,bot,bot,bot,US10,,B
+96108943,bot,bot,bot,bot,US10,,B
+96131719,bot,bot,bot,bot,US10,,B
+96222662,bot,bot,bot,bot,US10,,B
+96574593,bot,bot,bot,bot,US10,,B
+96959015,bot,bot,bot,bot,US10,,B
+97011465,bot,bot,bot,bot,US10,,B
+97040471,bot,bot,bot,bot,US10,,B
+97086904,bot,bot,bot,bot,US10,,B
+97468902,bot,bot,bot,bot,US10,,B
+97782265,bot,bot,bot,bot,US10,,B
+97846446,bot,bot,bot,bot,US10,,B
+98033398,bot,bot,bot,bot,US10,,B
+98215505,bot,bot,bot,bot,US10,,B
+98370979,bot,bot,bot,bot,US10,,B
+98844516,bot,bot,bot,bot,US10,,B
+98901523,bot,bot,bot,bot,US10,,B
+99066604,bot,bot,bot,bot,US10,,B
+99118836,bot,bot,bot,bot,US10,,B
+99404892,bot,bot,bot,bot,US10,,B
+99603522,bot,bot,bot,bot,US10,,B
+99612369,bot,bot,bot,bot,US10,,B
+99683743,bot,bot,bot,bot,US10,,B
+99741049,bot,bot,bot,bot,US10,,B
